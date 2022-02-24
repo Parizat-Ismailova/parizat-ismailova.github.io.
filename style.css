@@ -10,11 +10,8 @@ h1 {
         margin: 0 -15px 20px -15px;
 }
     .header-nav {
-    
         background-color: var(--accent, rgb(93, 126, 102));
         color: var(--pure-white, #fff);
-        /*justify-content: space-between;
-        align-items: center;*/
     }
     
    .header-logo {
